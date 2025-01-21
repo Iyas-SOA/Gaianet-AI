@@ -21,7 +21,7 @@ cd gaianet
 ```
 nano config.json
 ```
-CTRL X > Y > Enter
+Save : CTRL X > Y > Enter
 ## After Change Config :
 ```
 gaianet init
